@@ -294,7 +294,7 @@ export function MainPage() {
   )
 }
 
-function BoltIcon(props) {
+function BoltIcon(props: any) {
   return (
     <svg
       {...props}
@@ -315,7 +315,7 @@ function BoltIcon(props) {
 }
 
 
-function CpuIcon(props) {
+function CpuIcon(props: any) {
   return (
     <svg
       {...props}
@@ -344,7 +344,7 @@ function CpuIcon(props) {
 }
 
 
-function KeyIcon(props) {
+function KeyIcon(props: any) {
   return (
     <svg
       {...props}
@@ -366,7 +366,7 @@ function KeyIcon(props) {
 }
 
 
-function LeafIcon(props) {
+function LeafIcon(props: any) {
   return (
     <svg
       {...props}
@@ -387,7 +387,7 @@ function LeafIcon(props) {
 }
 
 
-function LockIcon(props) {
+function LockIcon(props: any) {
   return (
     <svg
       {...props}
@@ -408,7 +408,7 @@ function LockIcon(props) {
 }
 
 
-function MenuIcon(props) {
+function MenuIcon(props: any) {
   return (
     <svg
       {...props}
@@ -430,7 +430,7 @@ function MenuIcon(props) {
 }
 
 
-function NetworkIcon(props) {
+function NetworkIcon(props: any) {
   return (
     <svg
       {...props}
@@ -454,7 +454,7 @@ function NetworkIcon(props) {
 }
 
 
-function RecycleIcon(props) {
+function RecycleIcon(props: any) {
   return (
     <svg
       {...props}
@@ -479,7 +479,7 @@ function RecycleIcon(props) {
 }
 
 
-function ServerIcon(props) {
+function ServerIcon(props: any) {
   return (
     <svg
       {...props}
@@ -502,7 +502,7 @@ function ServerIcon(props) {
 }
 
 
-function ShieldIcon(props) {
+function ShieldIcon(props: any) {
   return (
     <svg
       {...props}
@@ -522,7 +522,7 @@ function ShieldIcon(props) {
 }
 
 
-function SunIcon(props) {
+function SunIcon(props: any) {
   return (
     <svg
       {...props}
