@@ -23,6 +23,9 @@ import { DropdownMenuTrigger, DropdownMenuItem, DropdownMenuContent, DropdownMen
 import { Input } from "@/components/ui/input"
 import Image from "next/image"
 import ContactPage from "../contact/contact"
+import { Wave } from "../ui/wave/wave"
+
+
 
 export function MainPage() {
   return (
@@ -106,6 +109,14 @@ export function MainPage() {
             </div>
           </div>
         </section>
+    
+        <section>
+          <Wave />
+        </section>
+        <section>
+     
+        </section>
+
         <section className="flex w-full py-12 md:py-24 lg:py-32 justify-center " id="infrastructure">
           <div className="px-4 md:px-6 space-y-12">
             <div className="flex flex-col md:flex-row gap-5">
