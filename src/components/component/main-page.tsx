@@ -86,8 +86,8 @@ export function MainPage() {
           </div>
         </nav>
       </header>
-      <main className="flex flex-col items-center justify-center">
-        <section className="flex w-full py-12 md:py-24 lg:py-32 bg-[#004D40] text-white  justify-center">
+      <main className="flex flex-col items-center justify-center ">
+        <section className="flex w-full  md:py-24 lg:py-32 bg-[#004D40] text-white  justify-center pt-40 ">
           <div className="container px-4 md:px-6 space-y-4 md:space-y-6">
             <div className="max-w-3xl space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
