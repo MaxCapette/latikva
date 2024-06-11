@@ -287,7 +287,7 @@ export function MainPage() {
           </div>
         </section>
       </main>
-      <footer className="  py-8  text-white bg-[#004D40]">
+      <footer className=" flex items-center flex-col md:flex-row py-8  text-white bg-[#004D40]">
           <div className=" mx-auto px-4 md:px-6 flex flex-col md:flex-column items-center justify-between">
           <p className="  mt-4 ">© 2024 LATKIVA.</p>
           <p className="  "> Tous droits réservés.</p>
