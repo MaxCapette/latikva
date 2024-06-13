@@ -2,18 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-header {
-  width: 90%;
-  padding: 15px;
-  border-radius: 5px;
-  position: fixed;
-  top: 5%;
-  /* Position à 50% du haut */
-  left: 50%;
-  /* Position à 50% de la gauche */
-  transform: translate(-50%, -50%);
- 
-
-  opacity: 0.9;
-  z-index: 1;
-}

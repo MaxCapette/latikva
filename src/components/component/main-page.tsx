@@ -30,7 +30,7 @@ import { Wave } from "../ui/wave/wave"
 export function MainPage() {
   return (
     <div className="flex flex-col min-h-[100dvh] ">
-      <header className="px-4 lg:px-6 h-14 flex items-center bg-[#004D40] text-white">
+      <header className="w-[90%] p-[15px] rounded-[5px] fixed top-[5%] left-1/2 transform -translate-x-1/2 -translate-y-1/2 opacity-90 z-10 px-4 lg:px-6 h-14 flex items-center bg-[#004D40] text-white">
         <Link className="flex items-center justify-center" href="#">
           <ServerIcon className="h-6 w-6" />
           <span className="ml-2 font-bold">Latikva</span>
@@ -296,7 +296,8 @@ export function MainPage() {
           <p className="  mt-4 ">108 PL DES MIROIRS</p>
           <p className="   ">91000 EVRY-COURCOURONNES
 </p>
-          <p className="  mt-4 ">contact@cesty-ing.fr</p>
+          <p className="  mt-4 ">contact@latikva.fr</p>
+
           <p className="  mt-4 ">TEL: 01 85 10 03 72</p>
           </div>
        
