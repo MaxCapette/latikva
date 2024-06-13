@@ -298,7 +298,7 @@ export function MainPage() {
 </p>
           <p className="  mt-4 ">contact@latikva.fr</p>
 
-          <p className="  mt-4 ">TEL: 01 85 10 03 72</p>
+          <p className="  mt-4 ">TEL: 06 24 58 70 45</p>
           </div>
        
       </footer>
