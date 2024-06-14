@@ -293,9 +293,8 @@ export function MainPage() {
           <p className="  "> Tous droits réservés.</p>
           </div>
           <div className=" mx-auto px-4 md:px-6 flex flex-col md:flex-column items-center justify-between">
-          <p className="  mt-4 ">108 PL DES MIROIRS</p>
-          <p className="   ">91000 EVRY-COURCOURONNES
-</p>
+          <p className="  mt-4 ">4 rue RENE RAZEL</p>
+          <p className="   ">91400 SACLAY</p>
           <p className="  mt-4 ">contact@latikva.fr</p>
 
           <p className="  mt-4 ">TEL: 06 24 58 70 45</p>
