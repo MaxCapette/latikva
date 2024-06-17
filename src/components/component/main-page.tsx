@@ -297,7 +297,7 @@ export function MainPage() {
           <p className="   ">91400 SACLAY</p>
           <p className="  mt-4 ">contact@latikva.fr</p>
 
-          <p className="  mt-4 ">TEL: 06 24 58 70 45</p>
+          <p className="  mt-4 ">TEL: 01 89 70 36 47</p>
           </div>
        
       </footer>
